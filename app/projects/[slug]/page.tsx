@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { ProjectDetails } from '@/app/components/pages/project/project-details'
 import { ProjectSections } from '@/app/components/pages/project/project-sections'
 import { ProjectPageData, ProjectsPageStaticData } from '@/app/types/page-info'
@@ -10,6 +11,8 @@ type ProjectProps = {
     slug: string
   }
 }
+
+
 
 const getProjectDetails = async (slug: string): Promise<ProjectPageData> => {
   const query = `
