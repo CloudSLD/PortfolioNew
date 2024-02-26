@@ -2,7 +2,6 @@
 
 <br/>
 
-Claro, aqui está uma versão melhorada do texto:
 
 Bem-vindo ao meu Portfolio!
 
